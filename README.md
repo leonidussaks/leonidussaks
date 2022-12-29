@@ -2,6 +2,6 @@
 
 **leonidussaks/leonidussaks**
 
-- 🔭 I’m currently working on freelance scripts
-- 🌱 I’m currently learning qml / python / django / aiogram / fastapi
-- 📫 How to reach me: my telegram: @leonidussaks
+- 🔭 I’m currently working above myself
+- 🌱 I’m currently learning python / django / aiogram / fastapi
+- 📫 How to reach me: telegram @leonidussaks
